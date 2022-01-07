@@ -8,9 +8,6 @@ import java.io.IOException;
  * Purpose of program:  Determines if a new movie review is. 
  * positive or negative based on previously analyzed
  * movie reviews in a dataset from Rotten Tomatoes
- * Author Name: Meghana Karthic 
- * JHED ID: 785802
- * Date: October 14, 2021
  */
  
 public class Proj3 {
